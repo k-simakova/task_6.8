@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:#3F3A65;
+    border: 2px double yellowgreen;
+}
+.word {
+    font-style:italic;
+    font-size: 16px;
+}
+code {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
